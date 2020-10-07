@@ -4,7 +4,8 @@ Simple games developed using python gui that can be run from CLI if you have "PY
 After installing the python.
 Install the pygame module using the following command:
 In CLI type:
-    pip install pygame
+
+pip install pygame
 
 This repo contains 2 basic games.
 
